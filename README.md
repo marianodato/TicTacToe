@@ -1,5 +1,5 @@
 # TicTacToe
-A simple two player console TicTacToe game written in C.
+A simple two player TicTacToe console game written in C.
 
 ## Build Instructions
 
