@@ -1,7 +1,7 @@
 # TicTacToe
 A simple two player TicTacToe console game written in C.
 
-## Build Instructions
+## Build and Run Instructions
 
 1. Open a terminal.
 2. Clone repository: `git clone https://github.com/marianodato/TicTacToe.git`
