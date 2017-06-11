@@ -7,4 +7,5 @@ A simple two player TicTacToe console game written in C.
 2. Clone repository: `git clone https://github.com/marianodato/TicTacToe.git`
 3. Change to project directory: `cd TicTacToe`
 4. Run makefile: `make`
-5. Run the game: `./TicTacToe`
+5. Move binary file created to normal instalation path: `mv TicTacToe /usr/local/bin/`
+6. Run the game: `TicTacToe`
